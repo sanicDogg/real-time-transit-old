@@ -1,5 +1,5 @@
 # real-time-transit
-# OLD VERSION
+# OLD VERSION. To see latest version go https://github.com/sanicDogg/real-time-transit
 ### Веб-приложение на Node.js, показывающее время прибытия общественного транспорта к остановке.
 **Посмотреть можно тут: http://borada5w.beget.tech/**   
 ***
@@ -7,7 +7,7 @@
 ***
 ### Информация отображается в реальном времени.
 
-Файл с основным кодом - **index.js**
+Файл с основным кодом - **app.js**
 
 Использует портал общественного транспорта Санкт-Петербурга:   
 http://transport.orgp.spb.ru/Portal/transport/internalapi/gtfs   
